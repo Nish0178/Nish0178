@@ -39,6 +39,7 @@ Hi, I'm <b>Nishant Trivedi</b> 👋, a passionate <b>Computer Science student</b
 I’m interested in <b>web development, programming, and creating real-world tech solutions</b>. 
 I enjoy turning ideas into practical applications while continuously learning new technologies and improving my problem-solving skills.  
 
+<p align="center">
 I’m particularly fascinated by <b>modern web technologies, open-source collaboration, and creating clean user experiences</b>. 
 My goal is to become a developer who builds <b>impactful and scalable solutions</b>.
 </p>
