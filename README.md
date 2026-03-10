@@ -100,3 +100,11 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-00A1E4?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nish0178&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170"/>
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nish0178&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/Nish0178)
