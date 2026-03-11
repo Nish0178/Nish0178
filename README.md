@@ -48,6 +48,7 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 💡 <b>Code • Learn • Build • Improve • Repeat</b> 🚀
 </p>
 
+<div align="center">
 ## 🛠️ Tech Stack 
 <div align="center">
 
@@ -195,4 +196,9 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 💬 **Discord:** [My Discord Profile](https://discord.com/users/1456343385022660791)
 
 ---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
