@@ -131,3 +131,13 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nishant_trivedi01111?theme=dark&font=Baloo&ext=heatmap)
+
+</p>
+
+---
+
