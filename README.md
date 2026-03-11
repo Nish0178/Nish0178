@@ -48,7 +48,7 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 💡 <b>Code • Learn • Build • Improve • Repeat</b> 🚀
 </p>
 
-<div align="center">
+
 ## 🛠️ Tech Stack 
 <div align="center">
 
