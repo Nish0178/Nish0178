@@ -121,8 +121,14 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
-## HACKTOBERFEST'25 :
+## 🏆 GitHub Trophies
 
-[![An image of @nish0178's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nish0178)](https://holopin.io/@nish0178)
+<p align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Nish0178&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</p>
 
 ---
+
+
