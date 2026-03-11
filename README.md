@@ -157,4 +157,16 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 </p>
 
 ---
+---
+
+## 🏅 LeetCode Monthly Badges
+
+<p align="center">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="90"/>
+
+</p>
+
+---
 
