@@ -158,3 +158,41 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://yourportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-trivedi-363ba3249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nish0178" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Nishant43917812" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nishant_trivedi.0111/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@trivedijitechnical752" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/trinishant" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:Trivedinishant880@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1456343385022660791" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+📧 **Email:** [Trivedinishant880@gmail.com](mailto:Trivedinishant880@gmail.com)  
+📱 **Phone:** +91 7380528274  
+💬 **Discord:** [My Discord Profile](https://discord.com/users/1456343385022660791)
+
+---
+
