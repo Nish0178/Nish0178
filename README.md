@@ -124,7 +124,7 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=Nish0178&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </p>
