@@ -108,3 +108,15 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nish0178&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/Nish0178)
+
+
+---
+
+## 🐍 Contribution Snake  
+<div align="center">
+  
+  ![Snake animation](https://github.com/Nish0178/Nish0178/blob/output/snake.svg)
+
+</div>
+
+---
