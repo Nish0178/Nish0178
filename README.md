@@ -120,3 +120,9 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 </div>
 
 ---
+
+## HACKTOBERFEST'25 :
+
+[![An image of @nish0178's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nish0178)](https://holopin.io/@nish0178)
+
+---
