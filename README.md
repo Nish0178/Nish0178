@@ -141,3 +141,20 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
+## 🏅 LeetCode Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problems%20Solved-View%20Profile-yellow?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/Nishant_trivedi01111/">
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
