@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Trivedi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+I'm+Nishant+Trivedi;Computer+Science+Engineer+in+Making;Tech+Explorer+🚀;Open+Source+Contributor+🌍;Cloud+and+DevOps+Learner+☁️;Full+Stack+Developer+💻">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+I'm+Nishant+Trivedi;Java+Developer+🚀;Android+Developer+📱;Tech+Explorer+🚀;Open+Source+Contributor+🌍;Data+Analyst;Cloud+and+DevOps+Learner+☁️;Full+Stack+Developer+💻">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">
-AI-Native Full Stack Developer (MERN + Cloud (AWS) & DevOps)<br/>
+Java Developer & Android Developer (MERN + Cloud (AWS) & DevOps)<br/>
 DSA (Java) | SDE Intern | Open-Source Developer | Freelancer<br/>
 Campus Leader | Tech Content Creator | Tech Community Member | Curious to understand System Design principles
 </h1>
