@@ -127,15 +127,14 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 <p align="center">
 
 <img
-  src="https://github-profile-svg.vercel.app/api/profile?username=Nish0178&mode=traditional&theme=dark&showLocked=true"
+  src="https://github-profile-svg.vercel.app/api/profile?username=Nish0178&mode=traditional&theme=light&showLocked=false&showHidden=false"
   alt="Nishant Trivedi GitHub Trophies"
-  width="100%"
+  width="90%"
 />
 
 </p>
 
 ---
-
 ## 📊 GitHub Activity
 
 <div align="center">
