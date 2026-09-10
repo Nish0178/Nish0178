@@ -143,11 +143,14 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 <h3>📊 GitHub Stats</h3>
 
+<a href="https://github.com/Nish0178">
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Nish0178&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-  alt="Nishant's GitHub Stats"
-  width="100%"
+src="https://github-readme-stats-two-tawny-59.vercel.app/api?username=Nish0178&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+alt="Nishant's GitHub Stats"
 />
+
+</a>
 
 </td>
 
@@ -155,11 +158,14 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 <h3>💻 Most Used Languages</h3>
 
+<a href="https://github.com/Nish0178">
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nish0178&layout=compact&langs_count=8&hide_border=true"
-  alt="Most Used Languages"
-  width="100%"
+src="https://github-readme-stats-two-tawny-59.vercel.app/api/top-langs/?username=Nish0178&layout=compact&langs_count=8&hide_border=true"
+alt="Most Used Languages"
 />
+
+</a>
 
 </td>
 
