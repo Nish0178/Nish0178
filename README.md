@@ -134,6 +134,42 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ## 📊 GitHub Activity
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>📊 GitHub Stats</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nish0178&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+  alt="Nishant's GitHub Stats"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>💻 Most Used Languages</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nish0178&layout=compact&langs_count=8&hide_border=true"
+  alt="Most Used Languages"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 💻 LeetCode Stats
 
 <p align="center">
@@ -203,4 +239,3 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
