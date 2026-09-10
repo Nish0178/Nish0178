@@ -132,6 +132,55 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>GitHub Stats</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nish0178&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>Most Used Languages</h3>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nish0178&layout=compact&langs_count=8&hide_border=true"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>🔥 GitHub Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com?user=Nish0178&hide_border=true"
+  width="70%"
+/>
+
+</div>
+
+---
+
 ## 💻 LeetCode Stats
 
 <p align="center">
