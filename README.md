@@ -212,6 +212,9 @@ alt="Most Used Languages"
   <a href="https://yourportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://codolio.com/profile/trivedi_2111" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-FF7A00?style=for-the-badge&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/nishant-trivedi-363ba3249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
