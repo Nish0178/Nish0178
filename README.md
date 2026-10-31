@@ -133,16 +133,12 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧑‍💻 Codolio Profile
 
 <p align="center">
-
-<img
-  src="https://github-profile-svg.vercel.app/api/profile?username=Nish0178&mode=traditional&theme=light&showLocked=false&showHidden=false"
-  alt="Nishant Trivedi GitHub Trophies"
-  width="90%"
-/>
-
+  <a href="https://codolio.com/profile/trivedi_2111/card" target="_blank">
+    <img src="https://codolio.com/profile/trivedi_2111/card" width="70%" />
+  </a>
 </p>
 
 ---
