@@ -135,10 +135,65 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 ## 🧑‍💻 Codolio Profile
 
+<h2 align="center">🧑‍💻 Coding Profiles</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="YOUR_LEETCODE_URL">
+        🟨<br>
+        <b>LeetCode</b><br>
+        1415 Rating
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="YOUR_GFG_URL">
+        🟩<br>
+        <b>GeeksForGeeks</b><br>
+        Profile
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="YOUR_CODECHEF_URL">
+        🟫<br>
+        <b>CodeChef</b><br>
+        1318 Rating
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="YOUR_HACKERRANK_URL">
+        🟢<br>
+        <b>HackerRank</b><br>
+        96
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="YOUR_CODEFORCES_URL">
+        🔵<br>
+        <b>Codeforces</b><br>
+        599 Rating
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/Nish0178">
+        ⚫<br>
+        <b>GitHub</b><br>
+        Nish0178
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://codolio.com/profile/trivedi_2111/card" target="_blank">
-    <img src="https://codolio.com/profile/trivedi_2111/card" width="70%" />
-  </a>
+  <b>941</b> Problems Solved &nbsp;•&nbsp;
+  <b>210</b> Active Days &nbsp;•&nbsp;
+  <b>756</b> Submissions &nbsp;•&nbsp;
+  <b>5</b> Contests
 </p>
 
 ---
