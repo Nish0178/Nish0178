@@ -109,11 +109,16 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nish0178&theme=radical&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170"/>
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nish0178&theme=react-dark&hide_border=true&line=00E676&point=FFFFFF)](https://github.com/Nish0178)
+## 🧊 3D GitHub Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nish0178&theme=github_dark" width="100%" />
+</p>
 
 
 ---
