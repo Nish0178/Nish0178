@@ -8,6 +8,12 @@
 <img src="https://komarev.com/ghpvc/?username=NishantTrivedi&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/Nish0178">
+    <img src="https://hub.xerj.org/contributors/Nish0178/badge.svg" alt="XERJ Corpus Hub Contributor" />
+  </a>
+</p>
+
 ---
 
 <h1 align="center">
