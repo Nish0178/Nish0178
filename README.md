@@ -117,7 +117,7 @@ My goal is to become a developer who builds <b>impactful and scalable solutions<
 ## 🧊 3D GitHub Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nish0178&theme=github_dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nish0178/Nish0178/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 
